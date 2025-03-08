@@ -15,7 +15,7 @@
 ![5](https://github.com/user-attachments/assets/649731ee-bdaa-40b1-bad2-7a59ea90fb0b)
 
 <details>
-  <summary>支持列表</summary><br>
+  <summary>版本支持列表</summary><br>
   
 ||2017.x|2018.x|2019.x|2020.x|2021.x|2022.x|2023.x|2024.x|2025.x|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
