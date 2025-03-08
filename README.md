@@ -4,7 +4,7 @@
 ![2](https://github.com/user-attachments/assets/2192b0fa-ddca-471e-8898-97682e1d50e6)
 
 ### 2:打开一键激活IDEA工具，并点击一键激活IDEA<br>
-下载地址：https://wwus.lanzouu.com/b01re007a<br>
+下载地址：https://wwus.lanzouu.com/b0pmipmle<br>
 下载密码：1234<br><br>
 ![3](https://github.com/user-attachments/assets/c8679788-6d20-42fe-9a3e-719ed5a36a8d)
 
