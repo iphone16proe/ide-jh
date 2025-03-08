@@ -1,4 +1,4 @@
-# 2025最新版IDEA PyCharm破解教程，一键永久激活至2099年
+# 2025最新版IDEA 2024.3.4.1 PyCharm破解教程，一键永久激活至2099年
 ### 1:首先到官网下载并安装最新版IDEA  
 官网地址下载：https://www.jetbrains.com/zh-cn/idea/download/?section=windows  
 
