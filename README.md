@@ -17,4 +17,4 @@
 
 ### 4:重启完成后打开IDEA就激活成功了  
 
-  ![5](https://github.com/user-attachments/assets/649731ee-bdaa-40b1-bad2-7a59ea90fb0b)
+![5](https://github.com/user-attachments/assets/649731ee-bdaa-40b1-bad2-7a59ea90fb0b)
